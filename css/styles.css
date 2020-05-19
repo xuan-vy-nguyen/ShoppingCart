@@ -1,0 +1,34 @@
+.nav-color {
+  background-color: dodgerblue;
+  /* background-color: royalblue; */
+}
+
+.footer-color {
+  background-color: gainsboro;
+}
+
+.deleteButton {
+  background-color: #f44336;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.increaseButton {
+  background-color: green;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.decreaseButton {
+  background-color: yellow;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.total-cost {
+  text-align: right;
+  font-weight: bold;
+}
